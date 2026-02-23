@@ -16,3 +16,7 @@ sudo docker run -d -p 9001:9000 --privileged -v /var/run/docker.sock:/var/run/do
 firefox 127.0.0.1:9001
 ```
 Will monitor all images...
+
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=cs,dotnet,docker,vscode&theme=dark)](https://skillicons.dev)
